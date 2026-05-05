@@ -17,7 +17,7 @@ A minimal Go REST API template using the standard library.
 
 ```sh
 cp .env.example .env
-make run
+jsut run
 ```
 
 ## Routes
